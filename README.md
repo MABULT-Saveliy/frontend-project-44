@@ -2,9 +2,6 @@
 Brain games
 ========================
 
-
-[![Actions Status](https://github.com/MABULT-Saveliy/frontend-project-44/workflows/hexlet-check/badge.svg)](https://github.com/MABULT-Saveliy/frontend-project-44/actions)
-[![Maintainability](https://api.codeclimate.com/v1/badges/a99a88d28ad37a79dbf6/maintainability)](https://codeclimate.com/github/codeclimate/codeclimate/maintainability)
 <br>
 The game "Brain games" consists of several modules, each of which is a simple mathematical game.
 Each game is started with a specific command. The player must give the correct answer three times in a row, otherwise the game will end.
@@ -24,22 +21,20 @@ Clone repository to a local personal compiuter and run these commands in the roo
 
 Congrats! Now you can run game commands in any directory of your Personal Computer.
 
-[![asciicast](https://asciinema.org/a/ER0BnyuTA7jZQDg3FpwAgAw0G.svg)](https://asciinema.org/a/ER0BnyuTA7jZQDg3FpwAgAw0G)
-
+[не нашёл решения того, как установить asciinema на windows]
 ---
 ## Examples of games ##
 ### brain-even ###
 
-[![asciicast](https://asciinema.org/a/9y4SDe6Ox1P5emWcxhTHz5Ms2.svg)](https://asciinema.org/a/9y4SDe6Ox1P5emWcxhTHz5Ms2)
+[не нашёл решения того, как установить asciinema на windows]
 
 ### brain-calc ###
-[![asciicast](https://asciinema.org/a/3qA6p758HJGdldmiv0JjQ75id.svg)](https://asciinema.org/a/3qA6p758HJGdldmiv0JjQ75id)
-
+[не нашёл решения того, как установить asciinema на windows]
 ### brain-gcd ###
-[![asciicast](https://asciinema.org/a/adx14zHs4PvnHFndRgrLlbHzr.svg)](https://asciinema.org/a/adx14zHs4PvnHFndRgrLlbHzr)
+[не нашёл решения того, как установить asciinema на windows]
 
 ### brain-progression ###
-[![asciicast](https://asciinema.org/a/AKdyTN0lTmzVMj9an5QuoM4FV.svg)](https://asciinema.org/a/AKdyTN0lTmzVMj9an5QuoM4FV)
+[не нашёл решения того, как установить asciinema на windows]
 
 ### brain-prime ###
-[![asciicast](https://asciinema.org/a/1Bq9qcNJXYW6FsRm2gqQKpFoS.svg)](https://asciinema.org/a/1Bq9qcNJXYW6FsRm2gqQKpFoS)
+[не нашёл решения того, как установить asciinema на windows]
