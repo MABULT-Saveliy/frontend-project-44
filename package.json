@@ -9,7 +9,10 @@
   },
   "bin": {
     "brain-games": "bin/brain-games.js"
-},
+  },
   "author": "MABULT-Saveliy",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
 }
