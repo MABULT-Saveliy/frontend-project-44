@@ -25,19 +25,3 @@ brain-progression
 ```
 brain-prime.js
 ```
-
-## Work:
-### brain-even
-[![asciicast](https://asciinema.org/a/587704.svg)](https://asciinema.org/a/587704)
-
-### brain-calc
-[![asciicast](https://asciinema.org/a/ydgU3L1vzNxCR1oYLaGUiaBb7.svg)](https://asciinema.org/a/ydgU3L1vzNxCR1oYLaGUiaBb7)
-
-### brain-gcd
-[![asciicast](https://asciinema.org/a/tL1UfXCvofXcI8SLxXIrCcqBL.svg)](https://asciinema.org/a/tL1UfXCvofXcI8SLxXIrCcqBL)
-
-### brain-progression
-[![asciicast](https://asciinema.org/a/NLvpXMryb68vQRb9ixoQjyge5.svg)](https://asciinema.org/a/NLvpXMryb68vQRb9ixoQjyge5)
-
-### brain-prime
-[![asciicast](https://asciinema.org/a/vBNNxNGKMTiwiDEMFud8nhdp7.svg)](https://asciinema.org/a/vBNNxNGKMTiwiDEMFud8nhdp7)
