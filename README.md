@@ -3,3 +3,41 @@
 
 ### Code quality with CodeClimate:
 [![Maintainability](https://api.codeclimate.com/v1/badges/076ce004a8e77db6e8b6005d949a32c32e10c986/maintainability)](https://codeclimate.com/github/MABULT-Saveliy/frontend-project-44/maintainability)
+
+## Installation instruction:
+1. Game directory installation:
+```
+make install
+```
+2. Game start:
+```
+brain-even
+```
+```
+brain-calc
+```
+```
+brain-gcd
+```
+```
+brain-progression
+```
+```
+brain-prime.js
+```
+
+## Work:
+### brain-even
+[![asciicast](https://asciinema.org/a/587704.svg)](https://asciinema.org/a/587704)
+
+### brain-calc
+[![asciicast](https://asciinema.org/a/ydgU3L1vzNxCR1oYLaGUiaBb7.svg)](https://asciinema.org/a/ydgU3L1vzNxCR1oYLaGUiaBb7)
+
+### brain-gcd
+[![asciicast](https://asciinema.org/a/tL1UfXCvofXcI8SLxXIrCcqBL.svg)](https://asciinema.org/a/tL1UfXCvofXcI8SLxXIrCcqBL)
+
+### brain-progression
+[![asciicast](https://asciinema.org/a/NLvpXMryb68vQRb9ixoQjyge5.svg)](https://asciinema.org/a/NLvpXMryb68vQRb9ixoQjyge5)
+
+### brain-prime
+[![asciicast](https://asciinema.org/a/vBNNxNGKMTiwiDEMFud8nhdp7.svg)](https://asciinema.org/a/vBNNxNGKMTiwiDEMFud8nhdp7)
